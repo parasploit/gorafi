@@ -1,3 +1,4 @@
 chmod +x ajmal
-cp roul.sh $PREFIX/bin
+cp ajmal $PREFIX/bin
 rm ajmal
+ajmal
